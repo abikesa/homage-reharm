@@ -51,6 +51,6 @@
 - Bots/`Tesla`: Manufacture Goods From Surplus of Produce
   
 ### Apollo 5, 6
-- Version/`iPhone`: Iterative Update of Bots on Electricity-Dependent Assembly Line
+- Version/`iPhone`: Iterative Update of Bots on [Electricity](https://abikesa.github.io/uganda/)-Dependent Assembly Line
 - Marketshare/`iFastest`: Belongs to Most Frequent Iterator & Fasted Deployer in Town Square
 
